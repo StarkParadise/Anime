@@ -1,1 +1,17 @@
-{"name": "Mila", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTXqv56tDwi5kiGxbJPAyM8U9Bngn1byuppUEpSD2Zu4D", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 734}]}
+{
+  "name": "Mila",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTXqv56tDwi5kiGxbJPAyM8U9Bngn1byuppUEpSD2Zu4D",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 777
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 307
+    }
+  ]
+}

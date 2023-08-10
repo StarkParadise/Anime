@@ -1,1 +1,17 @@
-{"name": "Skylar", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmRqSHvYhyjPKDbMEcfdUXjHXcWXzTGfPCiB3PbgTtzfNM", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 583}]}
+{
+  "name": "Skylar",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmRqSHvYhyjPKDbMEcfdUXjHXcWXzTGfPCiB3PbgTtzfNM",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 484
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 694
+    }
+  ]
+}

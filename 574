@@ -1,1 +1,17 @@
-{"name": "Isla", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmNdT8coa69ZwiTSX1HYdLDcWQpEcqzwjNti2NfdX3byQA", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 762}]}
+{
+  "name": "Isla",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmNdT8coa69ZwiTSX1HYdLDcWQpEcqzwjNti2NfdX3byQA",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 639
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 181
+    }
+  ]
+}

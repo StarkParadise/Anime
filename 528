@@ -1,1 +1,17 @@
-{"name": "Keira", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTn9jiJLBLWdRhJ5zNkKUxQF6vVyZqvMVp4p4fuhcHzxB", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 753}]}
+{
+  "name": "Keira",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTn9jiJLBLWdRhJ5zNkKUxQF6vVyZqvMVp4p4fuhcHzxB",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 730
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 23
+    }
+  ]
+}

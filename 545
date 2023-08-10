@@ -1,1 +1,17 @@
-{"name": "Aubrey", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmVhurYLiYAm5edbAPmH3PK67QbJbBotLrDX4Rma8jUpKw", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 85}]}
+{
+  "name": "Aubrey",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmVhurYLiYAm5edbAPmH3PK67QbJbBotLrDX4Rma8jUpKw",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 144
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 91
+    }
+  ]
+}

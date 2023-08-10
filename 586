@@ -1,1 +1,17 @@
-{"name": "Jordyn", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTbyA8fZ8HmTvKUtVEAhFvsEGzC3pRsShzCUGwpLFEeW4", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 63}]}
+{
+  "name": "Jordyn",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTbyA8fZ8HmTvKUtVEAhFvsEGzC3pRsShzCUGwpLFEeW4",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 787
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 518
+    }
+  ]
+}

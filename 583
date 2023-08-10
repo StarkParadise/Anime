@@ -1,1 +1,17 @@
-{"name": "Josephine", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmSjWAP3rJvh3Fyqwg8HHrnUJLZEqHgrMSgGkHhnj7wXSq", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 370}]}
+{
+  "name": "Josephine",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmSjWAP3rJvh3Fyqwg8HHrnUJLZEqHgrMSgGkHhnj7wXSq",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 289
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 975
+    }
+  ]
+}

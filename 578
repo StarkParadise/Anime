@@ -1,1 +1,17 @@
-{"name": "Abigail", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmdoDticKSxAovwKYiNYVphDqHovZETBQr7MfSznBa6CYy", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 170}]}
+{
+  "name": "Abigail",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmdoDticKSxAovwKYiNYVphDqHovZETBQr7MfSznBa6CYy",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 828
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 603
+    }
+  ]
+}

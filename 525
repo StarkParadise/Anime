@@ -1,1 +1,17 @@
-{"name": "Sofia", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTF9613xPDrXdxgXgUbPxn7QaPWUwM1h1Zo9zQ8CC2dMZ", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 770}]}
+{
+  "name": "Sofia",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTF9613xPDrXdxgXgUbPxn7QaPWUwM1h1Zo9zQ8CC2dMZ",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 168
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 186
+    }
+  ]
+}

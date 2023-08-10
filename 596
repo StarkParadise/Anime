@@ -1,1 +1,17 @@
-{"name": "Payton", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmbHok84VpHQqZZKY6QB5JnXBeuT7WTG7qYXxGV58SAEri", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 464}]}
+{
+  "name": "Payton",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmbHok84VpHQqZZKY6QB5JnXBeuT7WTG7qYXxGV58SAEri",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 687
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 27
+    }
+  ]
+}

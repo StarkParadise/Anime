@@ -1,1 +1,17 @@
-{"name": "Athena", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmdzRG4RG46qUXfpsCkbpapD4GQ9FS2nvCcneHey6DNko3", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 614}]}
+{
+  "name": "Athena",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmdzRG4RG46qUXfpsCkbpapD4GQ9FS2nvCcneHey6DNko3",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 216
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 820
+    }
+  ]
+}

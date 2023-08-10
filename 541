@@ -1,1 +1,17 @@
-{"name": "Sara", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmYZBsGJebxwUah3JJ7APR5yqPW4g3KdRpjREf1hWcfiNL", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 685}]}
+{
+  "name": "Sara",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmYZBsGJebxwUah3JJ7APR5yqPW4g3KdRpjREf1hWcfiNL",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 385
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 134
+    }
+  ]
+}

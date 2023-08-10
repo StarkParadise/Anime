@@ -1,1 +1,17 @@
-{"name": "Mia", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmYSze1DmKEMcbNtVyZXGBP3p7Gt8C3okhS8yJobqes6Mf", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 519}]}
+{
+  "name": "Mia",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmYSze1DmKEMcbNtVyZXGBP3p7Gt8C3okhS8yJobqes6Mf",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 242
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 793
+    }
+  ]
+}

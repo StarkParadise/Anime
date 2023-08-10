@@ -1,1 +1,17 @@
-{"name": "Natalie", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmP2WH9sYrzG3UEsECSupzzZexeFwt7pFPztXQA6VHkvrW", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 400}]}
+{
+  "name": "Natalie",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmP2WH9sYrzG3UEsECSupzzZexeFwt7pFPztXQA6VHkvrW",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 692
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 63
+    }
+  ]
+}

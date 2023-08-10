@@ -1,1 +1,17 @@
-{"name": "Skye", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmZfxnT45Tr6ZEkB5AdM1FUy1UKmaYQA2BFt5scsRKKgfG", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 230}]}
+{
+  "name": "Skye",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmZfxnT45Tr6ZEkB5AdM1FUy1UKmaYQA2BFt5scsRKKgfG",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 377
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 145
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"name": "Marley", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmVanqBCRphtVcqL3iCQAB644JbJZRwBZ4v8ZRLWT12Zvw", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 138}]}
+{
+  "name": "Marley",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmVanqBCRphtVcqL3iCQAB644JbJZRwBZ4v8ZRLWT12Zvw",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 245
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 756
+    }
+  ]
+}

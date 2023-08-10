@@ -1,1 +1,17 @@
-{"name": "Liliana", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmRbZnhZbsJ68uvDr9Hw4NWUAxbRmN11LXqvD7QjfCRxts", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 112}]}
+{
+  "name": "Liliana",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmRbZnhZbsJ68uvDr9Hw4NWUAxbRmN11LXqvD7QjfCRxts",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 244
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 195
+    }
+  ]
+}

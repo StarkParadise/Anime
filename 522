@@ -1,1 +1,17 @@
-{"name": "Caroline", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmT2SMimiNimHXi5yQoVu97hs9GnT29SAXSq2j8qLhwYzE", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 376}]}
+{
+  "name": "Caroline",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmT2SMimiNimHXi5yQoVu97hs9GnT29SAXSq2j8qLhwYzE",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 497
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 642
+    }
+  ]
+}

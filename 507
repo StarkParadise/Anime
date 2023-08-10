@@ -1,1 +1,17 @@
-{"name": "Autumn", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmdHgpxbTQ1mW8iPSBbyGkoyjfrUNnmSe2JwFYdLShZjCT", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 581}]}
+{
+  "name": "Autumn",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmdHgpxbTQ1mW8iPSBbyGkoyjfrUNnmSe2JwFYdLShZjCT",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 803
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 30
+    }
+  ]
+}

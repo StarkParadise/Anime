@@ -1,1 +1,17 @@
-{"name": "Alessandra", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmbtVu2rQBwtTezVUMjL1TSrjALNZAB6vNB6DFRtjVTyzF", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 111}]}
+{
+  "name": "Alessandra",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmbtVu2rQBwtTezVUMjL1TSrjALNZAB6vNB6DFRtjVTyzF",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 784
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 87
+    }
+  ]
+}

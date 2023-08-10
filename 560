@@ -1,1 +1,17 @@
-{"name": "Leah", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTWpgsVd9VvbHvE5Jo4TF7SyUZiRcBEJqRqxtN1a7GhP5", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 865}]}
+{
+  "name": "Leah",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTWpgsVd9VvbHvE5Jo4TF7SyUZiRcBEJqRqxtN1a7GhP5",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 203
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 144
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"name": "Nora", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmPHv6hwCHEQqvWYeJwodJn9tUgTKDRNnoeeGvR5zdg9pf", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 690}]}
+{
+  "name": "Nora",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmPHv6hwCHEQqvWYeJwodJn9tUgTKDRNnoeeGvR5zdg9pf",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 124
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 492
+    }
+  ]
+}

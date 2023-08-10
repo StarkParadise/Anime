@@ -1,1 +1,17 @@
-{"name": "Ana", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmY9NS39s9zrvkSWoDgHohKUTHRmUeXuyDoevvKXzURobo", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 163}]}
+{
+  "name": "Ana",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmY9NS39s9zrvkSWoDgHohKUTHRmUeXuyDoevvKXzURobo",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 620
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 897
+    }
+  ]
+}

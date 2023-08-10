@@ -1,1 +1,17 @@
-{"name": "Arianna", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmWLtgZeMTJSU5fXJ4QdcHhxxrJJVnfKvsa1ZMShzMEc7C", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 850}]}
+{
+  "name": "Arianna",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmWLtgZeMTJSU5fXJ4QdcHhxxrJJVnfKvsa1ZMShzMEc7C",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 739
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 193
+    }
+  ]
+}

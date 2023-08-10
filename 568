@@ -1,1 +1,17 @@
-{"name": "Amelia", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmT7tYnnrMo6yny6VbeJAJwco8smjPTWZqiTZhgqrJnkTf", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 568}]}
+{
+  "name": "Amelia",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmT7tYnnrMo6yny6VbeJAJwco8smjPTWZqiTZhgqrJnkTf",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 439
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 357
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"name": "Chloe", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmagWV5AdX5kX2ojzapbY7QbkBPxMFhjphwSbtw81Vh31D", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 444}]}
+{
+  "name": "Chloe",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmagWV5AdX5kX2ojzapbY7QbkBPxMFhjphwSbtw81Vh31D",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 798
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 9
+    }
+  ]
+}
