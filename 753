@@ -1,1 +1,17 @@
-{"name": "Lucy", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmaVNLGpdwgo2USeuhHxnBGyRCxDni6nVR9EDvwRB8qU5A", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 334}]}
+{
+  "name": "Lucy",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmaVNLGpdwgo2USeuhHxnBGyRCxDni6nVR9EDvwRB8qU5A",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 671
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 544
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"name": "Piper", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmV2tepWcABR5BYBp9tey1p44ZHJ6gmdTJG8FPhPjpmKMe", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 730}]}
+{
+  "name": "Piper",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmV2tepWcABR5BYBp9tey1p44ZHJ6gmdTJG8FPhPjpmKMe",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 866
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 797
+    }
+  ]
+}

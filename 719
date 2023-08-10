@@ -1,1 +1,17 @@
-{"name": "Willow", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmNWQcChCUreZXCFBG5mQ8XUMRizx4zXBVxd3jcTHgZRry", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 487}]}
+{
+  "name": "Willow",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmNWQcChCUreZXCFBG5mQ8XUMRizx4zXBVxd3jcTHgZRry",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 100
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 821
+    }
+  ]
+}

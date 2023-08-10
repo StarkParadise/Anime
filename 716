@@ -1,1 +1,17 @@
-{"name": "Melanie", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmbJtFAqxBdpMwNCySGHiUctDRpi32NaSNt359WoKP6jwA", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 133}]}
+{
+  "name": "Melanie",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmbJtFAqxBdpMwNCySGHiUctDRpi32NaSNt359WoKP6jwA",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 749
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 847
+    }
+  ]
+}

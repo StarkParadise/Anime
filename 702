@@ -1,1 +1,17 @@
-{"name": "Maya", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmZFvebHQaSZpUf8D4UwmAZ8k4ALFkz9DLbqAoo7mjmBaV", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 15}]}
+{
+  "name": "Maya",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmZFvebHQaSZpUf8D4UwmAZ8k4ALFkz9DLbqAoo7mjmBaV",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 779
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 907
+    }
+  ]
+}

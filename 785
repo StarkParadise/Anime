@@ -1,1 +1,17 @@
-{"name": "Elena", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTADpgTmvtUg85NYzkNDXo2MbbZ1QUnkScAFkbsjSUfGG", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 896}]}
+{
+  "name": "Elena",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTADpgTmvtUg85NYzkNDXo2MbbZ1QUnkScAFkbsjSUfGG",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 300
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 141
+    }
+  ]
+}

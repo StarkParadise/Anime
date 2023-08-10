@@ -1,1 +1,17 @@
-{"name": "Evelyn", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmXuVwkqiqFVLF65Joh3yw6kzc1CieSPDXhyLDaW9grhk8", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 746}]}
+{
+  "name": "Evelyn",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmXuVwkqiqFVLF65Joh3yw6kzc1CieSPDXhyLDaW9grhk8",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 719
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 855
+    }
+  ]
+}

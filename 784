@@ -1,1 +1,17 @@
-{"name": "Elizabeth", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmRVtUbYz7yrvAneo5m4sNpKS9w1GmefTPBVKgU32bJRFH", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 203}]}
+{
+  "name": "Elizabeth",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmRVtUbYz7yrvAneo5m4sNpKS9w1GmefTPBVKgU32bJRFH",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 926
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 758
+    }
+  ]
+}

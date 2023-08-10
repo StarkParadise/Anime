@@ -1,1 +1,17 @@
-{"name": "Raelynn", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmcQRgQRd8hsMcWH92UyukvxKDiPYykXBNAUnVPvNExHkD", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 54}]}
+{
+  "name": "Raelynn",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmcQRgQRd8hsMcWH92UyukvxKDiPYykXBNAUnVPvNExHkD",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 782
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 777
+    }
+  ]
+}

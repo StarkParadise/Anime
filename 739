@@ -1,1 +1,17 @@
-{"name": "Nina", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmeQrkvCKbW9ae2Ufg5ei1AgCVR9JCBZ4KugU75N7NXypW", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 508}]}
+{
+  "name": "Nina",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmeQrkvCKbW9ae2Ufg5ei1AgCVR9JCBZ4KugU75N7NXypW",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 670
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 139
+    }
+  ]
+}

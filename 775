@@ -1,1 +1,17 @@
-{"name": "Emely", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmVqd9AELUPGoXtTE5rdqWges7H9gWtEgcx2ESuyFEMrUT", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 689}]}
+{
+  "name": "Emely",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmVqd9AELUPGoXtTE5rdqWges7H9gWtEgcx2ESuyFEMrUT",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 643
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 120
+    }
+  ]
+}

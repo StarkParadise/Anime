@@ -1,1 +1,17 @@
-{"name": "Jade", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmaVwz2ozysoGou9uYEw8exbRbAubGGnLHvtUCPYRHhzP5", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 221}]}
+{
+  "name": "Jade",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmaVwz2ozysoGou9uYEw8exbRbAubGGnLHvtUCPYRHhzP5",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 858
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 453
+    }
+  ]
+}
