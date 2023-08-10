@@ -1,1 +1,17 @@
-{"name": "Reese", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmUVdTrLc5EfhjNwCi98B3uHbMKEYHgMyoZCASn7D3djGw", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 228}]}
+{
+  "name": "Reese",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmUVdTrLc5EfhjNwCi98B3uHbMKEYHgMyoZCASn7D3djGw",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 550
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 7
+    }
+  ]
+}

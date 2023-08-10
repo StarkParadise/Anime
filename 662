@@ -1,1 +1,17 @@
-{"name": "Violet", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmWF2MyaHZmpjwMdruoQGccNanQmsipLKQ66tBau3kzykK", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 543}]}
+{
+  "name": "Violet",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmWF2MyaHZmpjwMdruoQGccNanQmsipLKQ66tBau3kzykK",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 246
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 853
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"name": "Sienna", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmNmUKDQsMMeBRN5htKwXJNNahDX8YKSfV9GsCZSJv9p86", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 260}]}
+{
+  "name": "Sienna",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmNmUKDQsMMeBRN5htKwXJNNahDX8YKSfV9GsCZSJv9p86",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 318
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 69
+    }
+  ]
+}

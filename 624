@@ -1,1 +1,17 @@
-{"name": "Kinsley", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmRvgEn5kzpdurqDLkVGUL823zNvhFzSTjDA7vhSbFjHUp", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 646}]}
+{
+  "name": "Kinsley",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmRvgEn5kzpdurqDLkVGUL823zNvhFzSTjDA7vhSbFjHUp",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 69
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 998
+    }
+  ]
+}

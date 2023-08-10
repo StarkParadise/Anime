@@ -1,1 +1,17 @@
-{"name": "Aurora", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmeSxvrgU73HRYXUVjwwTDNtpcJCZdaYh1NRDP5yBWZpwH", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 612}]}
+{
+  "name": "Aurora",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmeSxvrgU73HRYXUVjwwTDNtpcJCZdaYh1NRDP5yBWZpwH",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 566
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 883
+    }
+  ]
+}

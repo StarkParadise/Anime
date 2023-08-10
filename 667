@@ -1,1 +1,17 @@
-{"name": "Quinn", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmcAevRS5RtrJLPxqjrRBe7h4t4nV2tbSEDYnJdMmb485H", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 288}]}
+{
+  "name": "Quinn",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmcAevRS5RtrJLPxqjrRBe7h4t4nV2tbSEDYnJdMmb485H",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 149
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 93
+    }
+  ]
+}

@@ -1,1 +1,17 @@
-{"name": "Lydia", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmYnfXQGQSGBR81BM4scu4141JMnXVLpmgg5sFU5osmB88", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 996}]}
+{
+  "name": "Lydia",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmYnfXQGQSGBR81BM4scu4141JMnXVLpmgg5sFU5osmB88",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 161
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 719
+    }
+  ]
+}

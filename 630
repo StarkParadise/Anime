@@ -1,1 +1,17 @@
-{"name": "Adalynn", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmUWPBamnRvgusJ9MmvYGAKrLFJXmLhqjCCmA2uahrNbHU", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 440}]}
+{
+  "name": "Adalynn",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmUWPBamnRvgusJ9MmvYGAKrLFJXmLhqjCCmA2uahrNbHU",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 941
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 642
+    }
+  ]
+}

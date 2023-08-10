@@ -1,1 +1,17 @@
-{"name": "Maggie", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmXRKWJvPPDGRwTQm6Exq3hYo2DBgu3Z3FtAZLs8BQYptG", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 757}]}
+{
+  "name": "Maggie",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmXRKWJvPPDGRwTQm6Exq3hYo2DBgu3Z3FtAZLs8BQYptG",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 669
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 779
+    }
+  ]
+}
