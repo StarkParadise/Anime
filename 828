@@ -1,1 +1,17 @@
-{"name": "Reagan", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmTjRkVvqYPmLNLneZvStxQfrZVh1pLcSvcqeTemkX9hym", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 49}]}
+{
+  "name": "Reagan",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmTjRkVvqYPmLNLneZvStxQfrZVh1pLcSvcqeTemkX9hym",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 767
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 939
+    }
+  ]
+}

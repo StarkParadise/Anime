@@ -1,1 +1,17 @@
-{"name": "Eva", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmV5V1HiQJQVeqpJppLyubFgag6UpvCkiWbU7Xbqrbftwr", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 302}]}
+{
+  "name": "Eva",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmV5V1HiQJQVeqpJppLyubFgag6UpvCkiWbU7Xbqrbftwr",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 665
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 448
+    }
+  ]
+}

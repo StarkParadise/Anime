@@ -1,1 +1,17 @@
-{"name": "Alexa", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmP5NKFfX32KfVPa9GJjpuqmxDWrmfW6dyaD4B6zxS33FP", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 66}]}
+{
+  "name": "Alexa",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmP5NKFfX32KfVPa9GJjpuqmxDWrmfW6dyaD4B6zxS33FP",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 572
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 785
+    }
+  ]
+}

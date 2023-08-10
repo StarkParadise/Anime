@@ -1,1 +1,17 @@
-{"name": "Valentina", "description": "AI girls", "image": "https://ipfs.io/ipfs/Qmem7S1d6HPghj1MjetJ9s6e5Uou6WysKip3PvmB8Rfn3r", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 581}]}
+{
+  "name": "Valentina",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/Qmem7S1d6HPghj1MjetJ9s6e5Uou6WysKip3PvmB8Rfn3r",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 535
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 368
+    }
+  ]
+}

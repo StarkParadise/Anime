@@ -1,1 +1,17 @@
-{"name": "Gianna", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmNdKskE5mx174cNnRRDMLzBeMUCY2hz2Poi4DDi1gkfpN", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 293}]}
+{
+  "name": "Gianna",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmNdKskE5mx174cNnRRDMLzBeMUCY2hz2Poi4DDi1gkfpN",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 649
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 427
+    }
+  ]
+}

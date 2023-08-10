@@ -1,1 +1,17 @@
-{"name": "Hailey", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmQLvDGiEJ7SojWPHDtKV5GYcuvftG71vZYig2AVTFZNBp", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 84}]}
+{
+  "name": "Hailey",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmQLvDGiEJ7SojWPHDtKV5GYcuvftG71vZYig2AVTFZNBp",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 298
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 672
+    }
+  ]
+}

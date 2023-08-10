@@ -1,1 +1,17 @@
-{"name": "Brielle", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmXbCLUXkhk5xoaTd6PdUFKQzYEAgcpKmh79Hzjm15pBzd", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 978}]}
+{
+  "name": "Brielle",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmXbCLUXkhk5xoaTd6PdUFKQzYEAgcpKmh79Hzjm15pBzd",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 144
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 942
+    }
+  ]
+}

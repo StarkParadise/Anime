@@ -1,1 +1,17 @@
-{"name": "Camila", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmeKXeP8PESRkNAbingVQcgwDfyhUXSz854e7m8up1V9wX", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 369}]}
+{
+  "name": "Camila",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmeKXeP8PESRkNAbingVQcgwDfyhUXSz854e7m8up1V9wX",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 234
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 625
+    }
+  ]
+}

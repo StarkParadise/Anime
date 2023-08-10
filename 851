@@ -1,1 +1,17 @@
-{"name": "Harmony", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmbtUcMv9VSsH6gfDUUt1ucJWJWc7xEXvW9GgLJjxLYTkU", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 435}]}
+{
+  "name": "Harmony",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmbtUcMv9VSsH6gfDUUt1ucJWJWc7xEXvW9GgLJjxLYTkU",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 704
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 413
+    }
+  ]
+}

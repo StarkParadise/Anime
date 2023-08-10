@@ -1,1 +1,17 @@
-{"name": "Nova", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmeyZXjq6xQzWKv5ynWyCS9BEwJi8ajX8uwbwuDV9rcCnk", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 367}]}
+{
+  "name": "Nova",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmeyZXjq6xQzWKv5ynWyCS9BEwJi8ajX8uwbwuDV9rcCnk",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 261
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 748
+    }
+  ]
+}

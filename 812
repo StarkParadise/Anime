@@ -1,1 +1,17 @@
-{"name": "Eliana", "description": "AI girls", "image": "https://ipfs.io/ipfs/QmZxLZwJLhoFjLzx581QbKZKqmdfqqfPrmRp66uHvcrqKN", "attributes": [{"trait_type": "Rarity Rank", "display_type": "number", "value": 453}]}
+{
+  "name": "Eliana",
+  "description": "AI girls",
+  "image": "https://ipfs.io/ipfs/QmZxLZwJLhoFjLzx581QbKZKqmdfqqfPrmRp66uHvcrqKN",
+  "attributes": [
+    {
+      "trait_type": "Horny",
+      "display_type": "number",
+      "value": 153
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "display_type": "number",
+      "value": 647
+    }
+  ]
+}
